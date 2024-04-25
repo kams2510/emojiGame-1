@@ -1,0 +1,33 @@
+.nav-display-container {
+  background-color: #ffffff33;
+  border-bottom-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 3px;
+  margin-left: 20px;
+}
+
+.logo-container > img {
+  height: 45px;
+  width: 45px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.score-container {
+  display: flex;
+  padding: 3px;
+}
+
+.score-container > p {
+  margin-right: 10px;
+}
